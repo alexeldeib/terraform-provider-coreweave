@@ -1,5 +1,13 @@
 # Changelog
 
+## [0.14.0](https://github.com/coreweave/terraform-provider-coreweave/compare/v0.13.0...v0.14.0) (2026-06-09)
+
+
+### Features
+
+* **inference:** Add inference deployment, gateway, and capacity claim   resources ([#279](https://github.com/coreweave/terraform-provider-coreweave/issues/279)) ([b134474](https://github.com/coreweave/terraform-provider-coreweave/commit/b134474209275013a82e98561a7066eab316fe0f))
+* **object_storage:** add acceptance sweeper and deprecate lifecycle rule.prefix ([#313](https://github.com/coreweave/terraform-provider-coreweave/issues/313)) ([b906619](https://github.com/coreweave/terraform-provider-coreweave/commit/b9066193886c1e54ec9ab06a3c00f98361a4ce2b))
+
 ## [0.13.0](https://github.com/coreweave/terraform-provider-coreweave/compare/v0.12.0...v0.13.0) (2026-04-02)
 
 
